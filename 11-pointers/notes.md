@@ -1,0 +1,1 @@
+rewrite operations - there is no defnition yet, I suppose it's another way to say *syntax sugar*? Because it seems that array and pointer operations are more or less the same.
